@@ -1,1 +1,1 @@
-# SpringDataJPA usando o padrao Repository do SpringFramework
+# SpringDataJPA usando o padrao ORM Repository do SpringFramework
